@@ -7,4 +7,4 @@ def wsgi_application(environ, start_response):
         ('Content-Type', 'text/plain')
     ]
     start_response(status, headers)
-    return [body]
+    return [body.encode()]
