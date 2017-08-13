@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Popular</title>
+</head>
+<body>
+<div class="content">
+    <ul>
+        {% for question in questions %}
+            <li><a href="{{question.get_url}}">{{question}}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+</body>
+</html>
