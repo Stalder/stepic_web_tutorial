@@ -8,6 +8,10 @@ from .models import Question, Answer
 # Create your views here.
 
 
+def test(request, *args, **kwargs):
+    return HttpResponse('OK')
+
+
 def main(request):
     questions = Question.objects.new()
     page = request.GET.get('page', 1)
