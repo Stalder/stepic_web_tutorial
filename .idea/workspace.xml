@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afbd0369-9231-49e4-ba3e-448d70be74c0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ask/qa/models.py" afterPath="$PROJECT_DIR$/ask/qa/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ask/qa/url.py" afterPath="$PROJECT_DIR$/ask/qa/url.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ask/qa/views.py" afterPath="$PROJECT_DIR$/ask/qa/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,16 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="hello.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="url.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ask/qa/url.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -37,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ask/qa/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="70" lean-forward="true" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+            <state relative-caret-position="238">
+              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
               <folding>
                 <element signature="e#24#63#0" expanded="true" />
               </folding>
@@ -49,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ask/qa/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -82,8 +70,8 @@
         <option value="$PROJECT_DIR$/ask/templates/qa/main.html" />
         <option value="$PROJECT_DIR$/ask/templates/qa/popular.html" />
         <option value="$PROJECT_DIR$/ask/qa/url.py" />
-        <option value="$PROJECT_DIR$/ask/qa/models.py" />
         <option value="$PROJECT_DIR$/ask/qa/views.py" />
+        <option value="$PROJECT_DIR$/ask/qa/models.py" />
       </list>
     </option>
   </component>
@@ -354,14 +342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ask/templates/qa/question.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -404,6 +384,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ask/qa/url.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -414,21 +402,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ask/qa/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="70" lean-forward="true" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
-          <folding>
-            <element signature="e#24#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ask/qa/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="45" lean-forward="false" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ask/qa/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
